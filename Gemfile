@@ -12,3 +12,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'haml-rails'
+gem 'devise'
